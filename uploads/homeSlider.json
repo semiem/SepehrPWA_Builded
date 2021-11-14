@@ -1,0 +1,22 @@
+{
+  "homeSliders": [
+	{
+	  "mode": "",
+      "title": "appDownloadBanner",
+      "imageUrl": "https://sepehr.irib.ir/uploads/appDownloadBanner.png",
+      "href": "https://sepehr.irib.ir/app"
+    },
+	{
+    "mode": "active",
+      "title": "محرم",
+      "imageUrl": "https://sepehr.irib.ir/uploads/slides/moharam01.jpg",
+      "href": "https://sepehr.irib.ir"
+    },
+	{
+    "mode": "",
+      "title": "محرم",
+      "imageUrl": "https://sepehr.irib.ir/uploads/slides/moharam02.jpg",
+      "href": "https://sepehr.irib.ir"
+    }
+  ]
+}

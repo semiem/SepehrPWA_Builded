@@ -1,0 +1,30 @@
+﻿{
+  "android": {
+    "latestLink": "https://cdn1.shimaiptv.ir/uploads/app/shimaott/android/liveIRIB/android/api/v2.2/appVCode81.apk",
+    "alert": {
+      "message": ".برنامه در حال تغییرات است ، لطفا بعدا مراجعه نمایید!",
+      "blocking": false
+    },
+    "optionalUpdate": {
+      "optionalVersion": "81",
+      "message": "بهبود برخی از مشکلات"
+    },
+    "requiredUpdate": {
+      "minimumVersion": "76",
+      "message": "بهبود برخی از مشکلات \n سازگاری با نسخه های جدید اندروید"
+    },
+    "config": {
+      "sslPinning": [
+        {
+          "pinArray": [
+            "sha256/kciZJ/3OiVyl/kw8aiZwM+P/8y0Ukl2IO/6syGBtQew=",
+            "sha256/51GveKNrpJjtGpXY5QDx03s3YTQwaQic6dWBqo3zX6s=",
+            "sha256/qiYwp7YXsE0KKUureoyqpQFubb5gSDeoOoVxn6tmfrU="
+          ],
+          "domainName": "37.156.146.172"
+        }
+      ]
+    },
+    "updateType": "TYPE_OPEN_LINK"
+  }
+}

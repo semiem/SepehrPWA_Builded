@@ -1,0 +1,683 @@
+{
+  "frameAllowList": [
+    {
+      "serviceName": "سایت شبکه 1",
+      "serviceOrigin": "tv1.ir",
+      "channelFrameNames": [
+        "tv1"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه 2",
+      "serviceOrigin": "tv2.ir",
+      "channelFrameNames": [
+        "tv2"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه 3",
+      "serviceOrigin": "tv3.ir",
+      "channelFrameNames": [
+        "tv3"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه 4",
+      "serviceOrigin": "tv4.ir",
+      "channelFrameNames": [
+        "tv4"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه 5",
+      "serviceOrigin": "tv5.ir",
+      "channelFrameNames": [
+        "tv5"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه خبر",
+      "serviceOrigin": "irinn.ir",
+      "channelFrameNames": [
+        "irinn"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه آموزش",
+      "serviceOrigin": "tv7.ir",
+      "channelFrameNames": [
+        "tv7",
+		"amouzesh"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه قرآن",
+      "serviceOrigin": "qurantv.ir",
+      "channelFrameNames": [
+        "quran",
+        "shams"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه مستند",
+      "serviceOrigin": "doctv.ir",
+      "channelFrameNames": [
+        "mostanad"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه نمایش",
+      "serviceOrigin": "namayeshtv.ir",
+      "channelFrameNames": [
+        "namayesh"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه افق",
+      "serviceOrigin": "ofoghtv.com",
+      "channelFrameNames": [
+        "ofogh"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه ورزش",
+      "serviceOrigin": "varzeshtv.ir",
+      "channelFrameNames": [
+        "varzes"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه پویا",
+      "serviceOrigin": "pooyatv.ir",
+      "channelFrameNames": [
+        "pouya"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه سلامت",
+      "serviceOrigin": "salamattv.ir",
+      "channelFrameNames": [
+        "salamat"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه نسیم",
+      "serviceOrigin": "tvnasim.ir",
+      "channelFrameNames": [
+        "nasim"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه امید",
+      "serviceOrigin": "omidtv.ir",
+      "channelFrameNames": [
+        "omid"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه نهال",
+      "serviceOrigin": "nahaltv.ir",
+      "channelFrameNames": [
+        "pouya"
+      ]
+    },
+    {
+      "serviceName": "سایت شیما",
+      "serviceOrigin": "shimaiptv.ir",
+      "channelFrameNames": [
+        "*"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه تماشا",
+      "serviceOrigin": "tamashatv.ir",
+      "channelFrameNames": [
+        "tamasha"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه ایران کالا",
+      "serviceOrigin": "iktv.ir",
+      "channelFrameNames": [
+        "irankala"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه آبادان",
+      "serviceOrigin": "abadan.irib.ir",
+      "channelFrameNames": [
+        "abadan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه آذربایجان شرقی",
+      "serviceOrigin": "tabriz.irib.ir",
+      "channelFrameNames": [
+        "sahand"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه آذربایجان غربی",
+      "serviceOrigin": "urmia.irib.ir",
+      "channelFrameNames": [
+        "azarbayjan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه اردبیل",
+      "serviceOrigin": "ardabil.irib.ir",
+      "channelFrameNames": [
+        "sabalan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه اصفهان",
+      "serviceOrigin": "isfahan.irib.ir",
+      "channelFrameNames": [
+        "isfahan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه البرز",
+      "serviceOrigin": "alborz.irib.ir",
+      "channelFrameNames": [
+        "alborz"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه ایلام ",
+      "serviceOrigin": "ilam.irib.ir",
+      "channelFrameNames": [
+        "ilam",
+		"r-ilam",
+        "rn-ilam",
+        "irinn"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه بوشهر",
+      "serviceOrigin": "boushehr.irib.ir",
+      "channelFrameNames": [
+        "bushehr"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه خراسان جنوبی",
+      "serviceOrigin": "birjand.irib.ir",
+      "channelFrameNames": [
+        "khorasanjonoobi"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه خراسان رضوی",
+      "serviceOrigin": "mashhad.irib.ir",
+      "channelFrameNames": [
+        "khorasanrazavi",
+		"r-khorasanrazavi"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه خوزستان ",
+      "serviceOrigin": "ahwaz.irib.ir",
+      "channelFrameNames": [
+        "khozestan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه زنجان",
+      "serviceOrigin": "zanjan.irib.ir",
+      "channelFrameNames": [
+        "eshragh"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه سمنان",
+      "serviceOrigin": "semnan.irib.ir",
+      "channelFrameNames": [
+        "semnan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه سیستان و بلوچستان",
+      "serviceOrigin": "zahedan.irib.ir",
+      "channelFrameNames": [
+        "zahedan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه شما",
+      "serviceOrigin": "shomatv.ir",
+      "channelFrameNames": [
+        "shoma"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه فارس",
+      "serviceOrigin": "fars.irib.ir",
+      "channelFrameNames": [
+        "fars"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه قزوین",
+      "serviceOrigin": "qazvin.irib.ir",
+      "channelFrameNames": [
+        "qazvin"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه قم",
+      "serviceOrigin": "qom.irib.ir",
+      "channelFrameNames": [
+        "qom"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه مازندران",
+      "serviceOrigin": "mazandaran.irib.ir",
+      "channelFrameNames": [
+        "mazandaran"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه مرکزی",
+      "serviceOrigin": "markazi.irib.ir",
+      "channelFrameNames": [
+        "aftab",
+		"r-markazi"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه مهاباد",
+      "serviceOrigin": "mahabad.irib.ir",
+      "channelFrameNames": [
+        "mahabad",
+		"r-mahabad"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه همدان",
+      "serviceOrigin": "hamedan.irib.ir",
+      "channelFrameNames": [
+        "hamedan",
+		"r-hamedan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه چهارمحال و بختیاری",
+      "serviceOrigin": "chb.irib.ir",
+      "channelFrameNames": [
+        "jahanbin"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه کردستان",
+      "serviceOrigin": "kurdistan.irib.ir",
+      "channelFrameNames": [
+        "kordestan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه کرمانشاه",
+      "serviceOrigin": "kermanshah.irib.ir",
+      "channelFrameNames": [
+        "kermanshah"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه کیش",
+      "serviceOrigin": "kish.irib.ir",
+      "channelFrameNames": [
+        "kish"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه گلستان",
+      "serviceOrigin": "golestan.irib.ir",
+      "channelFrameNames": [
+        "golestan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه گیلان",
+      "serviceOrigin": "guilan.irib.ir",
+      "channelFrameNames": [
+        "baran",
+		"rn-gilan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه یزد",
+      "serviceOrigin": "yazd.irib.ir",
+      "channelFrameNames": [
+        "taban"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو آوا",
+      "serviceOrigin": "radioava.ir",
+      "channelFrameNames": [
+        "r-ava"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو اقتصاد",
+      "serviceOrigin": "radioeqtesad.ir",
+      "channelFrameNames": [
+        "r-eghtesad"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو ایران",
+      "serviceOrigin": "radioiran.ir",
+      "channelFrameNames": [
+        "r-iran"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو جوان",
+      "serviceOrigin": "radiojavan.ir",
+      "channelFrameNames": [
+        "r-javan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو فرهنگ",
+      "serviceOrigin": "radiofarhang.ir",
+      "channelFrameNames": [
+        "r-farhang"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو قرآن",
+      "serviceOrigin": "radioquran.ir",
+      "channelFrameNames": [
+        "r-quran"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو ورزش",
+      "serviceOrigin": "radiovarzesh.ir",
+      "channelFrameNames": [
+        "r-varzesh"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو پیام",
+      "serviceOrigin": "radiopayam.ir",
+      "channelFrameNames": [
+        "r-payam"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو گفتگو",
+      "serviceOrigin": "radiogoftogoo.ir",
+      "channelFrameNames": [
+        "r-goftegoo"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو اصفهان",
+      "serviceOrigin": "isfahan.irib.ir",
+      "channelFrameNames": [
+        "r-esfahan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو تلاوت",
+      "serviceOrigin": "radioquran.ir",
+      "channelFrameNames": [
+        "r-talavat"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو تهران",
+      "serviceOrigin": "radiotehran.ir",
+      "channelFrameNames": [
+        "r-tehran"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو خراسان جنوبی",
+      "serviceOrigin": "birjand.irib.ir",
+      "channelFrameNames": [
+        "r-khorasanjonoobi"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو خراسان شمالی",
+      "serviceOrigin": "bojnourd.irib.ir",
+      "channelFrameNames": [
+        "r-khorsanshomali",
+        "khorasanshomali"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو سلامت",
+      "serviceOrigin": "radiosalamat.ir",
+      "channelFrameNames": [
+        "r-salamat"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو صبا",
+      "serviceOrigin": "radiosaba.ir",
+      "channelFrameNames": [
+        "r-saba"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو فارس",
+      "serviceOrigin": "fars.irib.ir",
+      "channelFrameNames": [
+        "r-fars"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو قم",
+      "serviceOrigin": "qom.irib.ir",
+      "channelFrameNames": [
+        "r-qom"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو لرستان",
+      "serviceOrigin": "lorestan.irib.ir",
+      "channelFrameNames": [
+        "r-lorestan"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو معارف",
+      "serviceOrigin": "radiomaaref.ir",
+      "channelFrameNames": [
+        "r-maaref"
+      ]
+    },
+    {
+      "serviceName": "سایت شبکه رادیو کیش",
+      "serviceOrigin": "kish.irib.ir",
+      "channelFrameNames": [
+        "r-kish"
+      ]
+    },
+    {
+      "serviceName": "سایت های سحر",
+      "serviceOrigin": "sahartv.ir",
+      "channelFrameNames": [
+        "sahar1",
+        "sahar2",
+        "sahar3",
+        "sahar4"
+      ]
+    },
+	{
+      "serviceName": "سایت های سحر",
+      "serviceOrigin": "facebook.com",
+      "channelFrameNames": [
+        "sahar1",
+        "sahar2",
+        "sahar3",
+        "sahar4"
+      ]
+    },
+	{
+      "serviceName": "سایت های سحر",
+      "serviceOrigin": "youtube.com",
+      "channelFrameNames": [
+        "sahar1",
+        "sahar2",
+        "sahar3",
+        "sahar4"
+      ]
+    },
+    {
+      "serviceName": "سایت العالم",
+      "serviceOrigin": "alalamtv.net",
+      "channelFrameNames": [
+        "alalam"
+      ]
+    },
+	    {
+      "serviceName": "_سایت العالم",
+      "serviceOrigin": "alalam.ir",
+      "channelFrameNames": [
+        "alalam"
+      ]
+    },
+    {
+      "serviceName": "سایت الکوثر",
+      "serviceOrigin": "alkawthartv.com",
+      "channelFrameNames": [
+        "alkosar"
+      ]
+    },
+	{
+      "serviceName": "_سایت الکوثر",
+      "serviceOrigin": "alkawthartv.ir",
+      "channelFrameNames": [
+        "alkosar"
+      ]
+    },
+    {
+      "serviceName": "جام جم",
+      "serviceOrigin": "jjtvn.ir",
+      "channelFrameNames": [
+        "jjtvn1",
+        "jjtvn2",
+        "jjtvn3"
+      ]
+    },
+    {
+      "serviceName": "سایت باشگاه خبرنگاران",
+      "serviceOrigin": "yjc.news",
+      "channelFrameNames": [
+        "*"
+      ]
+    },
+    {
+      "serviceName": "خبرگزاری صدا و سیما",
+      "serviceOrigin": "iribnews.ir",
+      "channelFrameNames": [
+        "*"
+      ]
+    },
+    {
+      "serviceName": "سایت لبیک",
+      "serviceOrigin": "labbaik.ir",
+      "channelFrameNames": [
+        "labbaik"
+      ]
+    },
+    {
+      "serviceName": "همه سایت ها",
+      "serviceOrigin": ".",
+      "channelFrameNames": [
+        "shams"
+      ]
+    },
+    {
+      "serviceName": "urmedium",
+      "serviceOrigin": "urmedium.com",
+      "channelFrameNames": [
+        "sahar1",
+        "sahar2",
+        "sahar3",
+        "sahar4",
+        "alkosar"
+      ]
+    },
+    {
+      "serviceName": "naeb99.ir",
+      "serviceOrigin": "naeb99.ir",
+      "channelFrameNames": [
+        "arbaeen"
+      ]
+    },
+    {
+      "serviceName": "bahman99.ir",
+      "serviceOrigin": "bahman99.ir",
+      "channelFrameNames": [
+        "ayam"
+      ]
+    },
+    {
+      "serviceName": "eirib",
+      "serviceOrigin": "eirib.ir",
+      "channelFrameNames": [
+        "sepehr",
+		"eirib",
+		"ayam"
+      ]
+    },
+	{
+      "serviceName": "sepehrtv.ir",
+      "serviceOrigin": "sepehrtv.ir",
+      "channelFrameNames": [
+        "sepehr"
+      ]
+    },
+    {
+      "serviceName": "r-chb irib",
+      "serviceOrigin": "chb.irib.ir",
+      "channelFrameNames": [
+        "r-shahrekord"
+      ]
+    },
+    {
+      "serviceName": "khalijefars irib",
+      "serviceOrigin": "khalijefars.irib.ir",
+      "channelFrameNames": [
+        "khalijefars"
+      ]
+    },
+    {
+      "serviceName": "khalijefars irib",
+      "serviceOrigin": "khalijefars.irib.ir",
+      "channelFrameNames": [
+        "khalijefars"
+      ]
+    },
+    {
+      "serviceName": "yasouj irib",
+      "serviceOrigin": "yasouj.irib.ir",
+      "channelFrameNames": [
+        "dena"
+      ]
+    },
+    {
+      "serviceName": "qom irib",
+      "serviceOrigin": "qom.irib.ir",
+      "channelFrameNames": [
+        "noor"
+      ]
+    },
+    {
+      "serviceName": "ziarat99",
+      "serviceOrigin": "ziarat99.ir",
+      "channelFrameNames": [
+        "HabibTV"
+      ]
+    }
+  ]
+}

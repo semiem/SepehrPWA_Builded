@@ -1,0 +1,28 @@
+﻿{
+  "android": {
+    "latestLink": "https://cafebazaar.ir/app/ir.IRIB.jk.MediaIRIB",
+    "alert": {
+      "message": ".برنامه در حال تغییرات است ، لطفا بعدا مراجعه نمایید!",
+      "blocking": false
+    },
+    "optionalUpdate": {
+      "optionalVersion": "105",
+      "message": "بهبود برخی از مشکلات"
+    },
+    "requiredUpdate": {
+      "minimumVersion": "89",
+      "message": "بهبود برخی از مشکلات \n سازگاری با نسخه های جدید اندروید"
+    },
+    "sslPinning": [
+      {
+        "pinArray": [
+          "sha256/SI0giEh1lPZQ5hu5CZvybUr1CGLXHfF/Vaivjr8bViE=",
+          "sha256/51GveKNrpJjtGpXY5QDx03s3YTQwaQic6dWBqo3zX6s=",
+          "sha256/qiYwp7YXsE0KKUureoyqpQFubb5gSDeoOoVxn6tmfrU="
+        ],
+        "domainName": "*.irib.ir"
+      }
+    ],
+    "updateType": "TYPE_OPEN_LINK"
+  }
+}

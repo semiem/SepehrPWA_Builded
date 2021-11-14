@@ -1,0 +1,234 @@
+﻿{
+  "homeStructureRows": [
+    {
+      "rowType": "STRUCT_TYPE_TAG",
+      "rowData": {
+        "data": [
+          {
+            "title": "وب",
+            "onClick": {
+              "method": "OPEN_WEB_BROWSER",
+              "field": "https://sepehr.irib.ir/"
+            }
+          },
+
+          {
+            "title": "علاقه مندی ها",
+            "onClick": {
+              "method": "OPEN_PAGE_FAVORITE_CHANNELS",
+              "field": ""
+            }
+          },
+          {
+            "title":"ویدیو های مورد علاقه",
+            "onClick": {
+              "method": "OPEN_PAGE_FAVORITE_VODS",
+              "field": ""
+            }
+          },
+
+          {
+            "title": "جدول پخش",
+            "onClick": {
+              "method": "OPEN_EPG_TABLE",
+              "field": ""
+            }
+          },
+          {
+            "title": "در حال پخش",
+            "onClick": {
+              "method": "OPEN_PAGE_PLAYING_PROGRAMS",
+              "field": ""
+            }
+          },
+          {
+            "title": "دسته بندی موضوعی",
+            "onClick": {
+              "method": "OPEN_HOME_PAGE",
+              "field": "https://cdn1.shimaiptv.ir/uploads/app/shimaott/android/liveIRIB/android/api/common/banners.php"
+            }
+          },
+          {
+            "title": "دسته بندی لایو",
+            "onClick": {
+              "method": "OPEN_PAGE_LIVE_CATS",
+              "field": "1"
+            }
+          },
+          {
+            "title": "دسته بندی ویدیو",
+            "onClick": {
+              "method": "OPEN_PAGE_VOD_CATS",
+              "field": "5"
+            }
+          },
+          {
+            "title": "دسته بندی آموزشی",
+            "onClick": {
+              "method": "OPEN_PAGE_VOD_LIST",
+              "field": "1040"
+            }
+          }
+        ],
+        "type": "TYPE_TAG_DEFAULT"
+      }
+    },
+    {
+      "rowType": "STRUCT_TYPE_NEWLINE_8"
+    },
+    {
+      "rowType": "STRUCT_TYPE_SLIDE_SHOW",
+      "rowData": {
+        "data": [
+          {
+            "src": "http://media.irib.ir/assets/tv_slider/20191224101228_5936.png",
+            "title": "از سر نوشت",
+            "onClick": {
+              "method": "",
+              "field": ""
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rowType": "STRUCT_TYPE_LINE"
+    },
+    {
+      "rowType": "STRUCT_TYPE_HALF_BANNER",
+      "rowData": {
+        "data": [
+          {
+            "src": "https://cdn1.shimaiptv.ir/uploads/app/shimaott/android/liveIRIB/android/common/files/saarasari.png?t=1",
+            "title": "سراسری",
+            "onClick": {
+              "method": "OPEN_PAGE_CHANNEL_LIST",
+              "field": "2"
+            }
+          },
+          {
+            "src": "https://cdn1.shimaiptv.ir/uploads/app/shimaott/android/liveIRIB/android/common/files/ostani.png?t=1",
+            "title": "استانها",
+            "onClick": {
+              "method": "OPEN_PAGE_CHANNEL_LIST",
+              "field": "3"
+            }
+          },
+          {
+            "src": "https://cdn1.shimaiptv.ir/uploads/app/shimaott/android/liveIRIB/android/common/files/boronmarzi.png?t=1",
+            "title": "برون مرزی",
+            "onClick": {
+              "method": "OPEN_PAGE_CHANNEL_LIST",
+              "field": "4"
+            }
+          }
+        ],
+        "type": "TYPE_HALF_BANNER_THIN"
+      }
+    },
+    {
+      "rowType": "STRUCT_TYPE_LINE"
+    },
+    {
+      "rowType": "STRUCT_TYPE_ROW_HORIZONTAL_ITEM",
+      "rowData": {
+        "title": "همه کانال های سیما",
+        "item": {
+          "data": null,
+          "type": "TYPE_LIVE_TV_GRID",
+          "onLoad": {
+            "method": "TYPE_SHOW_CHANNELS",
+            "field": "2"
+          }
+        }
+      }
+    },
+    {
+      "rowType": "STRUCT_TYPE_ROW_HORIZONTAL_ITEM",
+      "rowData": {
+        "title": "همه کانال های سیما",
+        "item": {
+          "data": null,
+          "type": "TYPE_PLAYING_PROGRAM_HORIZONTAL",
+          "onLoad": {
+            "method": "TYPE_SHOW_CHANNELS",
+            "field": "2"
+          }
+        }
+      }
+    },
+    {
+      "rowType": "STRUCT_TYPE_ROW_HORIZONTAL_ITEM",
+      "rowData": {
+        "title": "آخرین ویدیو ها",
+        "item": {
+          "data": null,
+          "type": "TYPE_VOD",
+          "onLoad": {
+            "method": "TYPE_SHOW_VODS",
+            "field": ""
+          }
+        }
+      }
+    },
+    {
+      "rowType": "STRUCT_TYPE_ROW_HORIZONTAL_ITEM",
+      "rowData": {
+        "title": "همه کانال های رادیو نما",
+        "item": {
+          "data": null,
+          "type": "TYPE_LIVE_TV_GRID",
+          "onLoad": {
+            "method": "TYPE_SHOW_CHANNELS",
+            "field": "1077"
+          }
+        }
+      }
+    },
+    {
+      "rowType": "STRUCT_TYPE_ROW_HORIZONTAL_ITEM",
+      "rowData": {
+        "title": "فیلم سینمایی",
+        "item": {
+          "data": null,
+          "type": "TYPE_VOD",
+          "onLoad": {
+            "method": "TYPE_SHOW_VODS",
+            "field": "67"
+          }
+        }
+      }
+    },
+    {
+      "rowType": "STRUCT_TYPE_LINE"
+    },
+    {
+      "rowType": "STRUCT_TYPE_BANNER",
+      "rowData": {
+        "title": "شبکه های ورزشی",
+        "src": "https://cdn1.shimaiptv.ir/uploads/app/shimaott/android/liveIRIB/android/common/images/programs/main_genre2.png",
+        "onClick": {
+          "method": "OPEN_HOME_PAGE",
+          "field": "https://sepehr.irib.ir/uploads/files/sepehrIRIB/android/api/common/banners.php"
+        }
+      }
+    },
+	{
+      "rowType": "STRUCT_TYPE_BANNER",
+      "rowData": {
+        "title": "شبکه های ورزشی",
+        "src": "https://sepehr.irib.ir/uploads/files/sepehrIRIB/android/common/images/v3/shiran2.jpg",
+        "onClick": {
+          "method": "OPEN_HOME_PAGE",
+          "field": "https://sepehr.irib.ir/uploads/files/sepehrIRIB/android/api/common/banners.php"
+        }
+      }
+    },
+    {
+      "rowType": "STRUCT_TYPE_NEWLINE_8"
+    },
+    {
+      "rowType": "STRUCT_TYPE_NEWLINE_8"
+    }
+  ]
+}
