@@ -3,8 +3,8 @@
     "dashjs.js": "/static/js/dashjs.49981f57.chunk.js",
     "dashjs.js.map": "/static/js/dashjs.49981f57.chunk.js.map",
     "main.css": "/static/css/main.4da41225.chunk.css",
-    "main.js": "/static/js/main.caa788b0.chunk.js",
-    "main.js.map": "/static/js/main.caa788b0.chunk.js.map",
+    "main.js": "/static/js/main.57bec72b.chunk.js",
+    "main.js.map": "/static/js/main.57bec72b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cd82470f.js",
     "runtime-main.js.map": "/static/js/runtime-main.cd82470f.js.map",
     "vttjs.js": "/static/js/vttjs.d40a918b.chunk.js",
@@ -14,8 +14,8 @@
     "static/js/5.965b0ea1.chunk.js": "/static/js/5.965b0ea1.chunk.js",
     "static/js/5.965b0ea1.chunk.js.map": "/static/js/5.965b0ea1.chunk.js.map",
     "static/css/6.e1b25a95.chunk.css": "/static/css/6.e1b25a95.chunk.css",
-    "static/js/6.d9227dea.chunk.js": "/static/js/6.d9227dea.chunk.js",
-    "static/js/6.d9227dea.chunk.js.map": "/static/js/6.d9227dea.chunk.js.map",
+    "static/js/6.e9ac74dc.chunk.js": "/static/js/6.e9ac74dc.chunk.js",
+    "static/js/6.e9ac74dc.chunk.js.map": "/static/js/6.e9ac74dc.chunk.js.map",
     "static/js/7.cf601e78.chunk.js": "/static/js/7.cf601e78.chunk.js",
     "static/js/7.cf601e78.chunk.js.map": "/static/js/7.cf601e78.chunk.js.map",
     "static/js/8.b64d04a8.chunk.js": "/static/js/8.b64d04a8.chunk.js",
@@ -30,7 +30,7 @@
     "static/css/6.e1b25a95.chunk.css.map": "/static/css/6.e1b25a95.chunk.css.map",
     "static/css/main.4da41225.chunk.css.map": "/static/css/main.4da41225.chunk.css.map",
     "static/js/5.965b0ea1.chunk.js.LICENSE.txt": "/static/js/5.965b0ea1.chunk.js.LICENSE.txt",
-    "static/js/6.d9227dea.chunk.js.LICENSE.txt": "/static/js/6.d9227dea.chunk.js.LICENSE.txt",
+    "static/js/6.e9ac74dc.chunk.js.LICENSE.txt": "/static/js/6.e9ac74dc.chunk.js.LICENSE.txt",
     "static/js/8.b64d04a8.chunk.js.LICENSE.txt": "/static/js/8.b64d04a8.chunk.js.LICENSE.txt",
     "static/js/9.15f6810a.chunk.js.LICENSE.txt": "/static/js/9.15f6810a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/BYekan.f717454d.ttf",
@@ -39,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.cd82470f.js",
     "static/css/6.e1b25a95.chunk.css",
-    "static/js/6.d9227dea.chunk.js",
+    "static/js/6.e9ac74dc.chunk.js",
     "static/css/main.4da41225.chunk.css",
-    "static/js/main.caa788b0.chunk.js"
+    "static/js/main.57bec72b.chunk.js"
   ]
 }
